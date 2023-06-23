@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APICORE5.props" />
+</Project>
